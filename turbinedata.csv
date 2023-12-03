@@ -1,0 +1,57 @@
+﻿id,turbine,component,failure rate,downtime
+1,Micon M1500,Blades,0.22,6.5
+2,Micon M1500,Pitch,0,0
+3,Micon M1500,Generator,0.18,6.5
+4,Micon M1500,Electric,0.27,5
+5,Micon M1500,Inverter/Electronics,0.2,2.5
+6,Micon M1500,Shaft/Bearings,0.06,17
+7,Micon M1500,Sensors,0.12,1.5
+8,Micon M1500,Gearbox,0.1,14
+9,Micon M1500,Brake,0.05,1
+10,Micon M1500,Aerodynamic Brake,0.1,2
+11,Micon M1500,Hydraulics,0.07,1
+12,Micon M1500,Yaw,0.06,1
+13,Micon M1500,Anemometry,0.02,0.5
+14,Micon M1500,Other,0.25,2
+15,Tacke TW600,Blades,0.38,28
+16,Tacke TW600,Pitch,0,0
+17,Tacke TW600,Generator,0.18,10
+18,Tacke TW600,Electric,0.28,7
+19,Tacke TW600,Inverter/Electronics,0.14,2
+20,Tacke TW600,Shaft/Bearings,0.02,2
+21,Tacke TW600,Sensors,0.07,1
+22,Tacke TW600,Gearbox,0.2,37
+23,Tacke TW600,Brake,0.18,2
+24,Tacke TW600,Aerodynamic Brake,0,0
+25,Tacke TW600,Hydraulics,0.18,2.5
+26,Tacke TW600,Yaw,0.18,4
+27,Tacke TW600,Anemometry,0.04,1
+28,Tacke TW600,Other,0.3,7
+29,Enercon E40,Blades,0.24,16
+30,Enercon E40,Pitch,0.3,5
+31,Enercon E40,Generator,0.35,22
+32,Enercon E40,Electric,0.54,16
+33,Enercon E40,Inverter/Electronics,0.31,7
+34,Enercon E40,Shaft/Bearings,0.08,8
+35,Enercon E40,Sensors,0.12,2.5
+36,Enercon E40,Gearbox,0,0
+37,Enercon E40,Brake,0,0.5
+38,Enercon E40,Aerodynamic Brake,0,0
+39,Enercon E40,Hydraulics,0.02,0
+40,Enercon E40,Yaw,0.11,3
+41,Enercon E40,Anemometry,0.08,1
+42,Enercon E40,Other,0.24,9
+43,Vestas V39,Blades,0.17,6
+44,Vestas V39,Pitch,0.1,2
+45,Vestas V39,Generator,0.09,4
+46,Vestas V39,Electric,0.34,7.5
+47,Vestas V39,Inverter/Electronics,0.27,5
+48,Vestas V39,Shaft/Bearings,0,0
+49,Vestas V39,Sensors,0.08,1
+50,Vestas V39,Gearbox,0.18,5.5
+51,Vestas V39,Brake,0.01,0.5
+52,Vestas V39,Aerodynamic Brake,0,0
+53,Vestas V39,Hydraulics,0.26,6
+54,Vestas V39,Yaw,0.1,2
+55,Vestas V39,Anemometry,0.06,1
+56,Vestas V39,Other,0.2,2.5
